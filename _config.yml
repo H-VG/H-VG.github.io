@@ -1,0 +1,55 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: "Hassan Safaoui"
+description: "Personal website of Hassan Safaoui"
+keywords: "h-vg,safaoui,hassan,software,Engineer"
+baseurl: "/"
+url: "https://h-vg.github.io/Hassan_Safaoui/"
+# url: "http://127.0.0.1:4000"
+
+# author
+author:
+  name: 'Safaoui'
+  first_name: 'Hassan'
+  last_name: 'Safaoui'
+  email: 'safaouih@gmail.com'
+  linkedin_username: 'https://www.linkedin.com/in/safaoui/'
+  github_username: 'h-vg'
+  head_img: 'static/img/landing/picture.jpeg'
+  desc: "Currently i am a Software Engineer at Rocket Mortgage n Detroit"
+
+
+# sections
+sections:
+  - id: 'about-me'
+    i18n: 'nav.about_me'
+    name: 'About'
+    tpl: 'about.html'
+    css: ''
+
+  - id: 'career'
+    i18n: 'nav.career'
+    name: 'Career'
+    tpl: 'career.html'
+    css: 'timeline'
+
+  - id: 'skills'
+    i18n: 'nav.skills'
+    name: 'Skills'
+    tpl: 'skills.html'
+    css: 'team'
+
+  # - id: 'projects'
+  #   i18n: 'nav.projects'
+  #   name: 'Projects'
+  #   tpl: 'projects.html'
+  #   css: 'project'
+
+
+# localization
+languages:
+  - locale: 'en'
+    flag: 'static/img/flags/United-States.png'
+  # - locale: 'zh'
+  #   flag: 'static/img/flags/China.png'
