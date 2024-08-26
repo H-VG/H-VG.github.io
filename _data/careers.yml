@@ -1,0 +1,69 @@
+- name:
+    detail: Software Engineer @ Rocket Mortgage.
+    i18n: re
+  desc:
+    detail: From June 2022 to present. Continued to Support the VOE Process and Transitoned to Suppporting the REO Process with and user experience for interal tools
+    i18n: re_des
+  date:
+    detail: June 2022 - Present
+    i18n: re_date
+  job:
+    detail: Software Engineer
+    i18n: re_job
+  icon: fa-search
+
+- name:
+    detail: Associate Software Engineer @ Rocket Mortgage.
+    i18n: re
+  desc:
+    detail: From March 2021 to June 2022. Joined Rocket Mortgage specifically the Third Party Vendor Space, and supported the VOE (Verification of Employment) process
+    i18n: re_des
+  date:
+    detail: March. 2021 - June 2022
+    i18n: re_date
+  job:
+    detail: Associate Software Engineer 
+    i18n: re_job
+  icon: fa-search
+
+- name:
+    detail: Software Engineer Intern | Senior Capstone
+    i18n: re
+  desc:
+    detail: From September 2022 to December 2020,	I headed a team comprising of 4 interns to integrate new functionalities into an existing project, which included implementing Alert Notifications, an Alert Bell, and an Alarm Manager. 
+    i18n: re
+  date:
+    detail: March. 2016 - March. 2018
+    i18n: re
+  job:
+    detail: Software Engineer Intern
+    i18n: re
+  icon: fa-search
+
+- name:
+    detail: BCompSc at Wayne State University
+    i18n: re
+  desc:
+    detail: In December 2020, I graduated from a Bachelor of Computer Science program at Wayne State University, 
+    i18n: re
+  date:
+    detail: November 2016 - December 2020
+    i18n: re
+  job:
+    detail: Student
+    i18n: re
+  icon: fa-search
+
+- name:
+    detail: Apple
+    i18n: re
+  desc:
+    detail: From September 2018 - March 2021, i provided expert technical support and personalized product recommendations at an Apple retail store, ensuring exceptional customer satisfaction and effective use of Apple devices.
+    i18n: re
+  date:
+    detail: September 2018 - March 2021
+    i18n: re
+  job:
+    detail: Technical Specialist / Product Zone Specialist
+    i18n: re
+  icon: fa-search

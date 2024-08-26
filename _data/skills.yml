@@ -1,0 +1,23 @@
+- name: C#/.Net
+  percentage: 80
+
+- name: C/C++
+  percentage: 60
+
+- name: AWS
+  percentage: 75
+
+- name: Git
+  percentage: 98
+
+- name: Data Structures & Algorithms 
+  percentage: 98  
+
+- name: Terraform
+  percentage: 80
+  
+- name: Angular
+  percentage: 75
+
+- name: Docker
+  percentage: 75
