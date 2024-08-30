@@ -17,7 +17,7 @@ author:
   linkedin_username: 'https://www.linkedin.com/in/safaoui/'
   github_username: 'h-vg'
   head_img: 'static/img/landing/picture.jpeg'
-  desc: "Currently i am a Software Engineer at Rocket Mortgage in Detroit"
+  desc: "I'm currently a <b>Software Engineer</b> at <b>Rocket Mortgage</b>, where I focus on developing innovative solutions to enhance our mortgage technology"
 
 # sections
 sections:
@@ -44,11 +44,3 @@ sections:
   #   name: 'Projects'
   #   tpl: 'projects.html'
   #   css: 'project'
-
-
-# localization
-languages:
-  - locale: 'en'
-    flag: 'static/img/flags/United-States.png'
-  # - locale: 'zh'
-  #   flag: 'static/img/flags/China.png'
